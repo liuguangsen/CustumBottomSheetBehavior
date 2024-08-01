@@ -1,0 +1,2 @@
+BottomSheetBehavior默认是不支持外部控制滑动的
+工程通过扩展源码 支持 跟随外部滑动
